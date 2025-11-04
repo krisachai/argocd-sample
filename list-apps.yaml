@@ -1,0 +1,8 @@
+key:
+  components:
+    - name: component1
+      chart: podinfo
+      version: "6.3.2"
+      releaseName: component1
+      repoUrl: "https://stefanprodan.github.io/podinfo"
+      namespace: default
