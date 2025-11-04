@@ -8,7 +8,7 @@ metadata:
     version: latest
 spec:
   # 2. Number of desired replicas (pods)
-  replicas: 2 
+  replicas: 1
   # 3. Selector to link the Deployment to the Pods it manages
   selector:
     matchLabels:
