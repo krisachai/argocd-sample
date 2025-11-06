@@ -4,3 +4,7 @@ resources:
   - podinfo
 
 namespace: local
+images:
+
+  - name: stefanprodan/podinfo
+    newTag: v2
